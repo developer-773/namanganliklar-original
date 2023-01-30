@@ -145,3 +145,8 @@ textarea{
     border: none;
 }
 
+.btn:hover {
+    background-color: #fff;
+    color: #7297EF;
+}
+
